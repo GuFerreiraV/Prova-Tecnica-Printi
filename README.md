@@ -2,4 +2,4 @@
 Prova Téncnica Printi, usando sqllite e python
 
 
-> Para este teste eu usei o Google Colab, porém, deixarei todas as queries para responder as perguntas. 
+### Para este teste, usamos um banco de dados fictício, onde precisávamos fazer consultas e responder as perguntas.
